@@ -8,7 +8,7 @@ for i in range(5):
         # Solicitar al usuario cada valor
         valor = int(input(f"Ingrese el valor para la posición ({i}, {j}): "))
         fila.append(valor)  # Almacenar en la fila
-    matriz.append(fila)  # Agregar la fila completa a la matriz
+    matriz.append(fila)  # Agregar la fila complet5a a la matriz
 
 # Mostrar la matriz organizada
 print("\nMatriz ingresada:")
