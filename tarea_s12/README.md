@@ -1,7 +1,7 @@
 #  Programa de Reserva de Asientos en Sala de Cine
 
 ## Nombre del estudiante
-Dayana Brigitte Chango Toapanta
+Angel Rosado
 
 ##  Objetivo del programa
 Este programa permite gestionar la reserva de asientos en una sala de cine representada por una matriz de 3 filas y 4 columnas.  
